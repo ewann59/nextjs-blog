@@ -9,7 +9,6 @@ const YourComponent = () => (
     height={144} // Taille souhaitée avec le bon ratio d'aspect
     width={144} // Taille souhaitée avec le bon ratio d'aspect
     alt="Your Name"
-    
   />
 );
 
