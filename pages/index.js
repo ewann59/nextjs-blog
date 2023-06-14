@@ -18,9 +18,6 @@ export default function Home() {
     </Layout>
   );
 }
-
-
-export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
@@ -131,4 +128,4 @@ export default function Home() {
       `}</style>
     </div>
   )
-}
+
